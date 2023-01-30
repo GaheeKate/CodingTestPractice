@@ -1,7 +1,7 @@
 # Coding test 
  
-Today I practiced coding test 
-4 questions solved
+Started 3 Months Preparation Kit from HackerRank
+4 questions solved today
 
 - Breaking the Records: Hackerrank challenge.
   - variables for saving max,min scores
